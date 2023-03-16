@@ -1,0 +1,19 @@
+{
+  "name": "crudop",
+  "version": "1.0.0",
+  "description": "2Stage - CRUD operations",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "keywords": [
+    "CRUD"
+  ],
+  "author": "Konstantin Kondyurin",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.10.0"
+  }
+}
